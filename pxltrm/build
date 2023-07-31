@@ -6,7 +6,6 @@
 	"depends": [],
 	"cpu_flags": []
     },
-	
     "build":{
 	"files": ["/usr/bin/pxltrm"],
 	"command": "cd $NEMESIS_PKG_BUILD_DIR && install -Dm755 pxltrm /usr/bin/pxltrm" 
