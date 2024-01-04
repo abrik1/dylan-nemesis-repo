@@ -1,2 +1,7 @@
-pxltrm 1.0
-neofetch 7.1.0
+[pxltrm]
+version="1.0"
+description="pxltrm is a terminal pixel art editor written in pure bash. Draw pixel art without a mouse using intuitive hotkeys."
+
+[neofetch] 
+version="7.1.0"
+description="A CLI system information tool written in BASH that supports displaying images."
